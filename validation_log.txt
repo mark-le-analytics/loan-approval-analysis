@@ -1,0 +1,19 @@
+Loan Approval Validation Report
+Run date: 2026-03-26
+==================================================
+
+Total records:     50000
+Total flagged:     2296
+Flagged rate:      4.59%
+
+Flag breakdown:
+  Duplicate rows removed: 0
+  Text columns standardised to lowercase
+  No missing values found
+
+Business interpretation:
+  High loan-to-income ratios may indicate higher default risk.
+  Approvals with low credit scores suggest potential policy inconsistencies.
+  Approved loans with defaults on file warrant manual review.
+  DTI above 60% indicates the applicant is already heavily leveraged.
+  Unemployed applicants with employment years recorded may be data entry errors.
