@@ -6,7 +6,7 @@ A Python-based data validation and risk analysis pipeline applied to a loan appr
 
 ## Project Overview
 
-This project simulates the work of a data analyst inside a lending or credit risk team — validating raw loan application data, applying business rules, flagging anomalies, and producing a structured output ready for review.
+This project simulates the work of a data analyst inside a lending or credit risk team: validating raw loan application data, applying business rules, flagging anomalies, and producing a structured output ready for review.
 
 It is the second of two projects covering the full lending lifecycle:
 
